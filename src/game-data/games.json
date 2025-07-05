@@ -1,0 +1,304 @@
+{
+    "slotGames": [
+        {
+            "id": "book-of-dead",
+            "name": "Book of Dead",
+            "provider": "Play'n GO",
+            "theme": "Egyptian",
+            "volatility": "High",
+            "maxWin": "5000x"
+        },
+        {
+            "id": "starburst",
+            "name": "Starburst",
+            "provider": "NetEnt",
+            "theme": "Space/Gems",
+            "volatility": "Low",
+            "maxWin": "500x"
+        },
+        {
+            "id": "gonzo-quest",
+            "name": "Gonzo's Quest",
+            "provider": "NetEnt",
+            "theme": "Adventure",
+            "volatility": "Medium",
+            "maxWin": "2500x"
+        },
+        {
+            "id": "mega-moolah",
+            "name": "Mega Moolah",
+            "provider": "Microgaming",
+            "theme": "Safari",
+            "volatility": "High",
+            "maxWin": "Progressive Jackpot"
+        },
+        {
+            "id": "immortal-romance",
+            "name": "Immortal Romance",
+            "provider": "Microgaming",
+            "theme": "Vampire",
+            "volatility": "Medium",
+            "maxWin": "12150x"
+        },
+        {
+            "id": "bonanza",
+            "name": "Bonanza",
+            "provider": "Big Time Gaming",
+            "theme": "Mining",
+            "volatility": "High",
+            "maxWin": "12000x"
+        },
+        {
+            "id": "reactoonz",
+            "name": "Reactoonz",
+            "provider": "Play'n GO",
+            "theme": "Aliens",
+            "volatility": "High",
+            "maxWin": "4570x"
+        },
+        {
+            "id": "sweet-bonanza",
+            "name": "Sweet Bonanza",
+            "provider": "Pragmatic Play",
+            "theme": "Candy",
+            "volatility": "High",
+            "maxWin": "21100x"
+        },
+        {
+            "id": "wolf-gold",
+            "name": "Wolf Gold",
+            "provider": "Pragmatic Play",
+            "theme": "Wildlife",
+            "volatility": "Medium",
+            "maxWin": "2500x"
+        },
+        {
+            "id": "dead-or-alive-2",
+            "name": "Dead or Alive 2",
+            "provider": "NetEnt",
+            "theme": "Western",
+            "volatility": "High",
+            "maxWin": "100000x"
+        },
+        {
+            "id": "razor-shark",
+            "name": "Razor Shark",
+            "provider": "Push Gaming",
+            "theme": "Underwater",
+            "volatility": "High",
+            "maxWin": "50000x"
+        },
+        {
+            "id": "jammin-jars",
+            "name": "Jammin' Jars",
+            "provider": "Push Gaming",
+            "theme": "Fruit",
+            "volatility": "High",
+            "maxWin": "20000x"
+        },
+        {
+            "id": "gates-of-olympus",
+            "name": "Gates of Olympus",
+            "provider": "Pragmatic Play",
+            "theme": "Greek Mythology",
+            "volatility": "High",
+            "maxWin": "5000x"
+        },
+        {
+            "id": "big-bass-bonanza",
+            "name": "Big Bass Bonanza",
+            "provider": "Pragmatic Play",
+            "theme": "Fishing",
+            "volatility": "High",
+            "maxWin": "2100x"
+        },
+        {
+            "id": "fire-joker",
+            "name": "Fire Joker",
+            "provider": "Play'n GO",
+            "theme": "Classic",
+            "volatility": "Medium",
+            "maxWin": "800x"
+        },
+        {
+            "id": "legacy-of-dead",
+            "name": "Legacy of Dead",
+            "provider": "Play'n GO",
+            "theme": "Egyptian",
+            "volatility": "High",
+            "maxWin": "5000x"
+        },
+        {
+            "id": "thunderstruck-2",
+            "name": "Thunderstruck II",
+            "provider": "Microgaming",
+            "theme": "Norse Mythology",
+            "volatility": "Medium",
+            "maxWin": "8100x"
+        },
+        {
+            "id": "divine-fortune",
+            "name": "Divine Fortune",
+            "provider": "NetEnt",
+            "theme": "Greek Mythology",
+            "volatility": "Medium",
+            "maxWin": "Progressive Jackpot"
+        },
+        {
+            "id": "wild-wild-west",
+            "name": "Wild Wild West: The Great Train Heist",
+            "provider": "NetEnt",
+            "theme": "Western",
+            "volatility": "Medium",
+            "maxWin": "3918x"
+        },
+        {
+            "id": "buffalo-king",
+            "name": "Buffalo King",
+            "provider": "Pragmatic Play",
+            "theme": "Wildlife",
+            "volatility": "High",
+            "maxWin": "93750x"
+        },
+        {
+            "id": "moon-princess",
+            "name": "Moon Princess",
+            "provider": "Play'n GO",
+            "theme": "Anime",
+            "volatility": "High",
+            "maxWin": "5000x"
+        },
+        {
+            "id": "crystal-sun",
+            "name": "Crystal Sun",
+            "provider": "Play'n GO",
+            "theme": "Gems",
+            "volatility": "Medium",
+            "maxWin": "2000x"
+        },
+        {
+            "id": "vikings-go-berzerk",
+            "name": "Vikings Go Berzerk",
+            "provider": "Yggdrasil",
+            "theme": "Viking",
+            "volatility": "High",
+            "maxWin": "8918x"
+        },
+        {
+            "id": "the-dog-house",
+            "name": "The Dog House",
+            "provider": "Pragmatic Play",
+            "theme": "Animals",
+            "volatility": "High",
+            "maxWin": "6750x"
+        },
+        {
+            "id": "twin-spin",
+            "name": "Twin Spin",
+            "provider": "NetEnt",
+            "theme": "Classic",
+            "volatility": "Medium",
+            "maxWin": "1000x"
+        },
+        {
+            "id": "pirates-gold",
+            "name": "Pirate's Gold",
+            "provider": "Pragmatic Play",
+            "theme": "Pirates",
+            "volatility": "Medium",
+            "maxWin": "32000x"
+        },
+        {
+            "id": "eye-of-horus",
+            "name": "Eye of Horus",
+            "provider": "Blueprint",
+            "theme": "Egyptian",
+            "volatility": "Medium",
+            "maxWin": "10000x"
+        },
+        {
+            "id": "fishin-frenzy",
+            "name": "Fishin' Frenzy",
+            "provider": "Blueprint",
+            "theme": "Fishing",
+            "volatility": "Medium",
+            "maxWin": "5000x"
+        },
+        {
+            "id": "extra-chilli",
+            "name": "Extra Chilli",
+            "provider": "Big Time Gaming",
+            "theme": "Mexican",
+            "volatility": "High",
+            "maxWin": "20000x"
+        },
+        {
+            "id": "gonzo-quest-megaways",
+            "name": "Gonzo's Quest Megaways",
+            "provider": "Red Tiger",
+            "theme": "Adventure",
+            "volatility": "Medium",
+            "maxWin": "20000x"
+        }
+    ],
+    "categories": [
+        {
+            "name": "High Volatility",
+            "description": "High risk, high reward games with bigger but less frequent wins"
+        },
+        {
+            "name": "Medium Volatility",
+            "description": "Balanced gameplay with moderate risk and reward"
+        },
+        {
+            "name": "Low Volatility",
+            "description": "Lower risk games with smaller but more frequent wins"
+        },
+        {
+            "name": "Progressive Jackpot",
+            "description": "Games with accumulating jackpots that can reach millions"
+        },
+        {
+            "name": "Megaways",
+            "description": "Games with dynamic reel mechanics and thousands of ways to win"
+        }
+    ],
+    "providers": [
+        {
+            "name": "NetEnt",
+            "description": "Leading provider known for high-quality graphics and innovative features"
+        },
+        {
+            "name": "Microgaming",
+            "description": "Pioneer in online gaming with progressive jackpot network"
+        },
+        {
+            "name": "Play'n GO",
+            "description": "Mobile-first provider with engaging storylines and features"
+        },
+        {
+            "name": "Pragmatic Play",
+            "description": "Versatile provider offering diverse themes and mechanics"
+        },
+        {
+            "name": "Big Time Gaming",
+            "description": "Innovative provider known for creating the Megaways mechanic"
+        },
+        {
+            "name": "Push Gaming",
+            "description": "Modern provider focusing on mobile-optimized high volatility games"
+        },
+        {
+            "name": "Yggdrasil",
+            "description": "Creative provider known for unique themes and mechanics"
+        },
+        {
+            "name": "Blueprint",
+            "description": "UK-based provider with popular licensed and original content"
+        },
+        {
+            "name": "Red Tiger",
+            "description": "Provider specializing in Asian-themed and Megaways slots"
+        }
+    ]
+}
